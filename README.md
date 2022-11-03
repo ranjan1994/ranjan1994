@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ranjan1994
 - 👀 I’m interested in ...Data Analysis
 - 🌱 I’m currently learning ...Python,MSBI
-- 💞️ I’m looking to collaborate on ...Power BI Prtojects
+- 💞️ I’m looking to collaborate on ...Power BI Projects
 - 📫 How to reach me ... ranjan1994dutta@gmail.com
 
 <!---
